@@ -1,5 +1,10 @@
 # ofxHttpLib
 
+W.I.P.
+
+now implemented only simple GET.
+but `cpp-httplib` is so simple and useful.
+
 ## Dependency
 
 [cpp-httplib](https://github.com/yhirose/cpp-httplib) by [yhirose](https://github.com/yhirose/)
